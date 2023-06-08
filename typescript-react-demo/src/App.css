@@ -1,0 +1,9 @@
+li {
+  list-style: none;
+}
+
+.border {
+  outline: 1px solid blue;
+  padding: 1rem;
+  margin: 1em 0;
+}
