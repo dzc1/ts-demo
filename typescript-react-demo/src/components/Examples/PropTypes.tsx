@@ -5,10 +5,13 @@
 type LetsLearnTsProps = {
   // String Type
   name: string;
+
   // Number Type
   myAge: number;
+
   // Boolean Type
   likesPineapplePizza: boolean;
+
   // Object Type
   masterOfCeremony: {
     first: string;
