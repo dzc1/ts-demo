@@ -27,4 +27,4 @@ There are several reasons why developers choose to use TypeScript in their proje
 
 TypeScript is a helpful language that makes web development easier and safer. It's like a friend that helps us avoid mistakes and organize our work.
 
-[Typescript Tutorial](https://www.youtube.com/watch?v=BCg4U1FzODs&t=2766s&pp=ygUcdHlwZXNjcnlwdCB0dXRvcmlhbCB0cmF2ZXJzeQ%3D%3D).
+[Typescript Tutorial](https://www.youtube.com/watch?v=BCg4U1FzODs&t=2766s&pp=ygUcdHlwZXNjcnlwdCB0dXRvcmlhbCB0cmF2ZXJzeQ%3D%3D)
