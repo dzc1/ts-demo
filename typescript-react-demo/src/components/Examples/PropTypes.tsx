@@ -15,7 +15,7 @@ type LetsLearnTsProps = {
     last: string;
     age: number;
   };
-  // Array Type
+  // Arrayof Objects Type
   amazingMcs: {
     first: string;
     last: string;
